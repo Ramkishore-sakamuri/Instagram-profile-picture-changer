@@ -1,5 +1,5 @@
 # Instagram-profile-picture-changer
-On my 2nd project on github I have created a bot that could change the Instagram profile picture every time someone refreshes the page.
+This is my 2nd project on github I have created a bot that could change the Instagram profile picture every time someone refreshes the page.
 
 # Used Libraries
 
